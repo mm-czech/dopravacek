@@ -32,8 +32,4 @@ Hra je kompletně vytvořená pro webové prohlížeče a nabízí dva herní re
 
 Nechceš nic stahovat? Hru si můžeš zahrát **okamžitě v prohlížeči**:
 
-<p align="center">
-  <a href="https://mm-czech.github.io/dopravacek/">
-    <img src="https://img.shields.io/badge/▶_HRÁT_DNES-Spustit_hru_v_prohlížeči-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Hrát hru">
-  </a>
-</p>
+[https://mm-czech.github.io/dopravacek/](https://mm-czech.github.io/dopravacek/)
