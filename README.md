@@ -32,4 +32,4 @@ Hra je kompletně vytvořená pro webové prohlížeče a nabízí dva herní re
 
 Nechceš nic stahovat? Hru si můžeš zahrát **okamžitě v prohlížeči**:
 
-[https://mm-czech.github.io/dopravacek/](https://mm-czech.github.io/dopravacek/)
+[[https://mm-czech.github.io/dopravacek/](https://mm-czech.github.io/dopravacek/)](https://mm-czech.github.io/dopravacek/)
