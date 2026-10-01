@@ -12,9 +12,10 @@
 
 ## 🌟 O hře
 
-Hra je kompletně vytvořená pro webové prohlížeče a nabízí dva herní režimy:
+Hra je kompletně vytvořená pro webové prohlížeče a nabízí tři herní režimy:
 1. **Úkoly s Brumlou** – Plň příběhové mise, získej hvězdičky a sleduj, jak tvá síť propojuje okolní světy.
 2. **Volné stavění** – Buduj bez omezení a úkolů přesně podle svých představ.
+3. **Medvědí výprava** – Převážej každý kus zvlášť, vydělávej mince, zásobuj města elektřinou a jídlem a postupně odemykej železnici.
 
 ---
 
@@ -33,3 +34,11 @@ Hra je kompletně vytvořená pro webové prohlížeče a nabízí dva herní re
 Nechceš nic stahovat? Hru si můžeš zahrát **okamžitě v prohlížeči**:
 
 [[https://mm-czech.github.io/dopravacek/](https://mm-czech.github.io/dopravacek/)]
+
+## 🧩 Vývoj Medvědí výpravy
+
+Pravidla, ceny, závislosti a pracovní fáze jsou v [návrhu režimu](docs/medvedi-vyprava.md).
+Původní hra zůstává v `index.html`; samostatný běh nového režimu leží v `challenge/`.
+Po úpravě `challenge/logic.js` z kořene repozitáře spusť `python challenge/build.py`
+a následně `node challenge/smoke.test.cjs`. Generátor si před vytvořením kopie
+ověří kontrolní součet původní hry i stylů.
