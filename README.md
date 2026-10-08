@@ -13,7 +13,7 @@
 
 ## 🚀 Hraj hned
 
-**[https://mm-czech.github.io/dopravacek/](https://mm-czech.github.io/dopravacek/)**
+**[https://dopravacek.online](https://dopravacek.online)**
 
 Hra běží rovnou v prohlížeči (Chrome, Edge), bez instalace a bez registrace. Sama se ukládá, takže příště pokračuješ tam, kde jsi skončil. Každý způsob hry má vlastní uloženou hru. Přizpůsobí se i tabletu a telefonu otočenému na šířku.
 
