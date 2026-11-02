@@ -26,28 +26,30 @@ Celá hra je jediný soubor `index.html`. Můžeš si ho stáhnout a otevřít d
 ## 🌟 Tři způsoby hry
 
 1. **Úkoly s Brumlou** – Medvídek strojvůdce Brumla tě provede krok za krokem: první zastávka, první autobus, vláček s uhlím… Za splněné úkoly dostaneš hvězdičky a šipka vždycky ukáže, který nástroj se hodí.
-2. **Volné stavění** – Bez úkolů a bez peněz. Stav, co tě napadne.
+2. **Volné stavění** – Bez úkolů a bez peněz. Stav, co tě napadne. Jen tady můžeš městečka zdobit kvetoucími zahrádkami a kašnami.
 3. **Medvědí výprava** – Pro starší děti (asi 8–12 let). Stavby a vozidla stojí medvědí mince a vydělávají je jen lidičky a náklad, které opravdu dovezeš. Městečko roste, jen když má dopravu, elektřinu z elektrárny nataženou po stožárech, mouku z mlýna a nakonec i popeláře. Koleje se odemknou dřevem dovezeným na pilu. Ani tady se nic nedá prohrát: když mince dojdou, přijde Medvědí pomoc.
 
 ---
 
 ## 🎮 Co ve hře najdeš
 
-* 🛣️ **Stavění:** Silnice a mosty přes řeku, zastávky, koleje s nádražími a přejezdy se závorami, lampy podél silnic i kolejí. Zastávka sbírá lidičky a náklad z políček hned kolem sebe, takže v každém městečku jich může být hned několik.
-* 🚍 **Vozidla:** Autobusy a patrové autobusy, náklaďáky, popelářská auta a traktůrek na kukuřičném poli. Trasa může vést přes až 8 zastávek.
-* 🚂 **Vláčky:** Parní mašinka nebo dieselová lokomotiva a k nim vagóny pro cestující, uhlí, dřevo, obilí a mouku.
+* 🛣️ **Stavění:** Silnice a mosty přes řeku, zastávky, koleje s nádražími a přejezdy se závorami, lampy podél silnic i kolejí. Zastávka sbírá lidičky a náklad z políček hned kolem sebe, takže v každém městečku jich může být hned několik. Bourá malý buldozer, který jezdí místo kurzoru.
+* 🌷 **Ozdoby:** Ve Volném stavění postavíš zahrádky s tulipány, kopretinami a lupinami a patrové pískovcové kašny na zámkové dlažbě. Stačí kliknout nebo táhnout po trávě a máš náměstíčko.
+* 🚍 **Vozidla:** Autobusy a patrové autobusy, náklaďáky, popelářská auta pro čtyři barvy popelnic (i zelené na sklo) a traktůrek na kukuřičném poli. Trasa může vést přes až 8 zastávek a každé vozidlo má své jméno.
+* 🚂 **Vláčky:** Parní mašinka nebo dieselová lokomotiva a k nim vagóny pro cestující, uhlí, dřevo, obilí a mouku. Na nádraží jde vagónky kdykoli vyměnit. Motoráček jezdí sám a na konci trati se jen rozjede zpátky.
 * 🏭 **Suroviny:** Uhlí z dolu vozíš do elektrárny, dřevo z lesa na pilu, obilí z farmy do mlýna a mouku odtamtud lidem domů. Kam jezdí doprava, tam městečka rostou a z vesnic se stávají města.
 * 🚒 **Záchranáři:** Hasiči, policie, záchranka a odtahovka v českých barvách přijedou, když hoří domek, kočička se bojí slézt ze střechy, uteče prasátko nebo se porouchá autíčko. Vždycky to dobře dopadne.
-* 🦒 **Zoo, koupaliště a hřiště:** V zoo bydlí sloni, žirafy, zebry, koníci, ovečky a plameňáci. Lidičky tam krmí žirafy, hladí ovečky a děti se vozí na poníkovi. Zoo, koupaliště i dětské hřiště ožijí, až tam autobusem nebo vláčkem přivezeš návštěvníky.
-* 🌙 **Den a noc:** Večer se rozsvítí lampy a okna, zvířátka jdou spát a koupaliště, hřiště i zoo se na noc zavřou. Ráno je první autobus zase zaplní.
-* 🐟 **Živý svět:** Na staveništi pracuje bagr, na poli jezdí traktůrek, v rybnících skáčou rybičky a voda se vlní.
+* 🦒 **Zoo, koupaliště, hřiště a balón:** V zoo bydlí sloni, žirafy, zebry, koníci, ovečky a plameňáci. Lidičky tam krmí žirafy, hladí ovečky a děti se vozí na poníkovi. U jedné vesnice čeká horkovzdušný balón, se kterým se lidičky po partách proletí nad krajinou a mávají. Všechna místa ožijí, až tam autobusem nebo vláčkem přivezeš návštěvníky.
+* 🌙 **Den a noc:** Večer se rozsvítí lampy a okna, zvířátka jdou spát a koupaliště, hřiště, zoo i balón mají na noc zavřeno. Ráno je první autobus zase zaplní.
+* 🐟 **Živý svět:** Na staveništi pracuje bagr, na poli jezdí traktůrek, v rybnících skáčou rybičky a voda se vlní. V kašnách městeček teče voda. Krajina má louky s kvítky, písčité oblé břehy a deset druhů stromů, od ovocných stromů u vesnic po vrby u vody, a v lese se schovávají houby.
 
 ---
 
 ## 🕹️ Ovládání
 
 * Hraje se myší i prstem. Levým tlačítkem nebo jedním prstem stavíš, pravým tlačítkem nebo dvěma prsty posouváš mapu, kolečkem nebo prsty přibližuješ.
-* Klávesy 1–9 rychle vyberou nástroj.
+* Klávesy 1–9 rychle vyberou nástroj v pořadí, jak jsou v liště. Klávesa 0 vybere ozdoby ve Volném stavění a stožár v Medvědí výpravě.
+* Na úvodní obrazovce je tlačítko **Návod**. Obrázky v něm ukážou krok za krokem, jak se co staví a kam se co vozí.
 * Vpravo nahoře je pauza, želva a zajíc pro pomalou a rychlou hru, vypínač zvuku a domeček zpátky do menu.
 
 ---
