@@ -48,6 +48,7 @@ Celá hra je jediný soubor `index.html`. Můžeš si ho stáhnout a otevřít d
 ## 🕹️ Ovládání
 
 * Hraje se myší i prstem. Levým tlačítkem nebo jedním prstem stavíš, pravým tlačítkem nebo dvěma prsty posouváš mapu, kolečkem nebo prsty přibližuješ.
+* Postavil jsi něco omylem? Tlačítko **Zpět** na konci lišty (nebo Ctrl+Z) vrátí poslední stavbu, klidně i několik po sobě. Je ve Volném stavění a v Úkolech s Brumlou; v Medvědí výpravě se chyba musí zbourat.
 * Klávesy 1–9 rychle vyberou nástroj v pořadí, jak jsou v liště. Klávesa 0 vybere ozdoby ve Volném stavění a stožár v Medvědí výpravě.
 * Na úvodní obrazovce je tlačítko **Návod**. Obrázky v něm ukážou krok za krokem, jak se co staví a kam se co vozí.
 * Vpravo nahoře je pauza, želva a zajíc pro pomalou a rychlou hru, vypínač zvuku a domeček zpátky do menu.
