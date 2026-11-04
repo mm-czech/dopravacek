@@ -35,7 +35,7 @@ Celá hra je jediný soubor `index.html`. Můžeš si ho stáhnout a otevřít d
 
 * 🛣️ **Stavění:** Silnice a mosty přes řeku, zastávky, koleje s nádražími a přejezdy se závorami, lampy podél silnic i kolejí. Zastávka sbírá lidičky a náklad z políček hned kolem sebe, takže v každém městečku jich může být hned několik. Bourá malý buldozer, který jezdí místo kurzoru.
 * 🌷 **Ozdoby:** Ve Volném stavění postavíš zahrádky s tulipány, kopretinami a lupinami a patrové pískovcové kašny na zámkové dlažbě. Stačí kliknout nebo táhnout po trávě a máš náměstíčko.
-* 🚍 **Vozidla:** Autobusy a patrové autobusy, náklaďáky, popelářská auta pro čtyři barvy popelnic (i zelené na sklo) a traktůrek na kukuřičném poli. Trasa může vést přes až 8 zastávek a každé vozidlo má své jméno.
+* 🚍 **Vozidla:** Autobusy a patrové autobusy, náklaďáky, popelářská auta pro čtyři barvy popelnic (i zelené na sklo) a traktůrek na kukuřičném poli. Trasa může vést přes až 8 zastávek, klidně i tam a zpátky (1, 2, 3, 2), každou zastávku z ní jde jedním klikem zase vyndat a každé vozidlo má své jméno. Když by lidičky nebo náklad neměli na trase kde vystoupit, hra to hned vlídně řekne.
 * 🚂 **Vláčky:** Parní mašinka nebo dieselová lokomotiva a k nim vagóny pro cestující, uhlí, dřevo, obilí a mouku. Na nádraží jde vagónky kdykoli vyměnit. Motoráček jezdí sám a na konci trati se jen rozjede zpátky.
 * 🏭 **Suroviny:** Uhlí z dolu vozíš do elektrárny, dřevo z lesa na pilu, obilí z farmy do mlýna a mouku odtamtud lidem domů. Kam jezdí doprava, tam městečka rostou a z vesnic se stávají města.
 * 🚒 **Záchranáři:** Hasiči, policie, záchranka a odtahovka v českých barvách přijedou, když hoří domek, kočička se bojí slézt ze střechy, uteče prasátko nebo se porouchá autíčko. Vždycky to dobře dopadne.
