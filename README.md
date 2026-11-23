@@ -25,7 +25,7 @@ Celá hra je jediný soubor `index.html`. Můžeš si ho stáhnout a otevřít d
 
 ## 🌟 Tři způsoby hry
 
-1. **Úkoly s Brumlou** – Medvídek strojvůdce Brumla tě provede krok za krokem: první zastávka, první autobus, vláček s uhlím… Za splněné úkoly dostaneš hvězdičky a šipka vždycky ukáže, který nástroj se hodí.
+1. **Úkoly s Brumlou** – Medvídek strojvůdce Brumla tě provede krok za krokem: první zastávka, první autobus, vláček s uhlím… Za splněné úkoly dostaneš hvězdičky a šipka vždycky ukáže, který nástroj se hodí. Čeká tě 70 úkolů od první zastávky až po dvě velká města – a na konci velká oslava. Pak můžeš stavět dál, jak chceš.
 2. **Volné stavění** – Bez úkolů a bez peněz. Stav, co tě napadne. Jen tady můžeš městečka zdobit kvetoucími zahrádkami a kašnami.
 3. **Medvědí výprava** – Pro starší děti (asi 8–12 let). Stavby a vozidla stojí medvědí mince a vydělávají je jen lidičky a náklad, které opravdu dovezeš. Městečko roste, jen když má dopravu, elektřinu z elektrárny nataženou po stožárech, mouku z mlýna a nakonec i popeláře. Koleje se odemknou dřevem dovezeným na pilu. Ani tady se nic nedá prohrát: když mince dojdou, přijde Medvědí pomoc.
 
