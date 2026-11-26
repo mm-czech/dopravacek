@@ -26,15 +26,16 @@ Celá hra je jediný soubor `index.html`. Můžeš si ho stáhnout a otevřít d
 ## 🌟 Tři způsoby hry
 
 1. **Úkoly s Brumlou** – Medvídek strojvůdce Brumla tě provede krok za krokem: první zastávka, první autobus, vláček s uhlím… Za splněné úkoly dostaneš hvězdičky a šipka vždycky ukáže, který nástroj se hodí. Čeká tě 70 úkolů od první zastávky až po dvě velká města – a na konci velká oslava. Pak můžeš stavět dál, jak chceš.
-2. **Volné stavění** – Bez úkolů a bez peněz. Stav, co tě napadne. Jen tady můžeš městečka zdobit kvetoucími zahrádkami a kašnami.
+2. **Volné stavění** – Bez úkolů a bez peněz. Stav, co tě napadne. Jen tady můžeš městečka zdobit kvetoucími zahrádkami a kašnami, v zimě sněhuláky a vánočními stromečky.
 3. **Medvědí výprava** – Pro starší děti (asi 8–12 let). Stavby a vozidla stojí medvědí mince a vydělávají je jen lidičky a náklad, které opravdu dovezeš. Městečko roste, jen když má dopravu, elektřinu z elektrárny nataženou po stožárech, mouku z mlýna a nakonec i popeláře. Koleje se odemknou dřevem dovezeným na pilu. Ani tady se nic nedá prohrát: když mince dojdou, přijde Medvědí pomoc.
 
 ---
 
 ## 🎮 Co ve hře najdeš
 
+* ❄️ **Zima:** V Dopraváčku teď vládne zima. Krajinu zasypal sníh, sněží, řeka zamrzá u břehů a ze střech visí rampouchy. Místo koupaliště je kluziště, místo hřiště iglú městečko a místo balónu sáňkařský kopec s vlekem pro lyžaře. V zimní zoo žijí lední medvědi, mroži, tučňáci, irbisové, sobi a psí spřežení. Lidičky nosí čepice a šály a Brumla taky. Rozehraná hra pokračuje, zima mění jen to, jak svět vypadá.
 * 🛣️ **Stavění:** Silnice a mosty přes řeku, zastávky, koleje s nádražími a přejezdy se závorami, lampy podél silnic i kolejí. Zastávka sbírá lidičky a náklad z políček hned kolem sebe, takže v každém městečku jich může být hned několik. Bourá malý buldozer, který jezdí místo kurzoru.
-* 🌷 **Ozdoby:** Ve Volném stavění postavíš zahrádky s tulipány, kopretinami a lupinami a patrové pískovcové kašny na zámkové dlažbě. Stačí kliknout nebo táhnout po trávě a máš náměstíčko.
+* 🌷 **Ozdoby:** Ve Volném stavění postavíš zahrádky s tulipány, kopretinami a lupinami a patrové pískovcové kašny na zámkové dlažbě. Stačí kliknout nebo táhnout po trávě a máš náměstíčko. V zimě místo nich stavíš sněhuláky s mrkví a čepicí a vánoční stromečky s ozdobami, které v noci svítí.
 * 🚍 **Vozidla:** Autobusy a patrové autobusy, náklaďáky, popelářská auta pro čtyři barvy popelnic (i zelené na sklo) a traktůrek na kukuřičném poli. Trasa může vést přes až 8 zastávek, klidně i tam a zpátky (1, 2, 3, 2), každou zastávku z ní jde jedním klikem zase vyndat a každé vozidlo má své jméno. Autobusu nebo náklaďáku můžeš při výběru trasy kliknout i na silnici: objeví se tam vlaječka a auto pojede tudy, třeba po tvé klikaté silnici. Když by lidičky nebo náklad neměli na trase kde vystoupit, hra to hned vlídně řekne. Auta jezdí podle českých pravidel: vpravo, v křižovatce pustí auto zprava, kolem kašny na náměstí jezdí po kruhovém objezdu a popeláři i záchranáři zastavují u krajnice.
 * 🚂 **Vláčky:** Parní mašinka nebo dieselová lokomotiva a k nim vagóny pro cestující, uhlí, dřevo, obilí a mouku. Na nádraží jde vagónky kdykoli vyměnit. Motoráček jezdí sám a na konci trati se jen rozjede zpátky.
 * 🏭 **Suroviny:** Uhlí z dolu vozíš do elektrárny, dřevo z lesa na pilu, obilí z farmy do mlýna a mouku odtamtud lidem domů. Kam jezdí doprava, tam městečka rostou a z vesnic se stávají města.
